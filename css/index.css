@@ -13,9 +13,10 @@
 
 nav{
     float: center;
-    background-color: gray;
+   
     width: 100%;
     height: 90px;
+    position: fixed;
 }
 
 nav ul{
@@ -24,6 +25,19 @@ nav ul{
     list-style-type: none;
     
  
+}
+h1{
+    color: blue;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    background-position: left;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+     font-style: italic;
+     font-family: 'Times New Roman', Times, serif;
 }
 nav li{
     display: inline-block;
@@ -35,14 +49,15 @@ nav li{
 }
 nav a{
     text-transform: uppercase;
-    font-size: 10px;
-    color: bisque;
+    font-size: 20px;
+    color:black;
     text-decoration: none;
+    font-weight: bold;
 
 
 }
 a:hover{
-    color: rgb(9, 10, 10);
+    color: blue;
    
 }  
 a{
@@ -52,7 +67,7 @@ a{
 }
 body{
     background-color: #dddddd;
-    background-image: url(".//image.jpeg")
+    
 }
 
 
