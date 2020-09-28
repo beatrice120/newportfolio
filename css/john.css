@@ -1,0 +1,61 @@
+.bold{
+    font: 1em sans-serif;
+}
+
+
+#home{
+    background-image: url("../image.jpeg");
+    height: 70%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.arthur{
+  width: 50%;
+  float: right
+}
+nav{
+    float: right;
+}
+img{
+    width: 10%;
+    display: inline;
+}
+nav ul{
+    margin: 0%;
+    padding: 0%;
+    list-style-type: none;
+    
+ 
+}
+nav li{
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 30px;
+    padding: 3px;
+    position: relative;
+    margin-right: 50px; 
+}
+nav a{
+    text-transform: uppercase;
+    font-size: 10px;
+    color: bisque;
+    text-decoration: none;
+
+
+}
+a:hover{
+    color: rgb(9, 10, 10);
+   
+}  
+a{
+    display: block;
+    padding: 8px;
+    
+}
+body{
+    background-color: #dddddd;
+    background-image: url(".//image.jpeg")
+}
+
+
