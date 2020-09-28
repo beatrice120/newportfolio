@@ -5,7 +5,7 @@
 ## Description of Application 
 This website shows all information about my self ,where in this portfolio there is my skills,education ,languages i speak and even the project which i have done before . in those project there is online selling clothes ,online butchery and online and my another portfolio which have my background informations,my CV and Coverletter and some work experience.
 
-## Setup/Installation Requirements
+## Setup amd Installation Requirements
 
 * Create an account on Github
 * Fork the repository from Github
