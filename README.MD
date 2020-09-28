@@ -15,6 +15,9 @@ This website shows all information about my self ,where in this portfolio there 
 ## Technologies Used are:
 
 HTML and CSS
+## Link of application
+
+https://beatrice120.github.io/newportfolio/
 
 ## contact details
 
