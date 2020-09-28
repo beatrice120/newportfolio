@@ -1,5 +1,8 @@
 
-
+body{
+background-image: url("https://previews.123rf.com/images/prapann/prapann1701/prapann170100388/69501735-details-of-white-slate-stone-texture-background.jpg");
+    
+}
 
 nav{
     float: center;
@@ -55,10 +58,7 @@ a{
     padding: 8px;
     
 }
-body{
-    background-color: #dddddd;
-    
-}
+
 footer{
     background-color: black;
     width: 100%;
